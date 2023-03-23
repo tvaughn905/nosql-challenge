@@ -79,3 +79,5 @@ Hint: You will need to use the aggregation method to answer this.
 
 The first 5 rows of your resulting DataFrame should look something like this:
 
+<img src="https://github.com/tvaughn905/nosql-challenge/blob/main/Resources/image2.PNG" width=100% height=100%>
+
